@@ -34,6 +34,19 @@ div#content div#descriptionText {
 	position: relative;
 	
 }
+div#content div#blogFrame {
+	padding: 10px;
+	width: 600px;
+	height: 420px;
+	overflow-y: scroll;
+}
+div#content div#blogFrame div#blog {
+	height: 800px;
+	background-color: #79B473;
+}
+div#content div#blogFrame div#blog h1 {
+	font-size: 20px;
+}
 
 div#header {
 	position: fixed;
