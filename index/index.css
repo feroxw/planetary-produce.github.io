@@ -47,6 +47,17 @@ div#content div#blogFrame div#blog {
 div#content div#blogFrame div#blog h1 {
 	font-size: 20px;
 }
+div#content table{
+	border: 2px solid;
+	font-size: 90%;
+	font-family: Helvetica, sans-serif, Arial;
+	padding: 2px;
+}
+table.center
+{
+margin-right: auto;
+margin-left: auto;
+}
 
 div#header {
 	position: fixed;
@@ -91,3 +102,6 @@ div#sidebar a {text-decoration: none;
 }
 
 div#sidebar a:hover {color: #79B473;}
+div#sidebar img {
+	border-radius: 8%;
+}
