@@ -58,6 +58,10 @@ table.center
 margin-right: auto;
 margin-left: auto;
 }
+th.width
+{
+width: 110px;
+}
 
 div#header {
 	position: fixed;
